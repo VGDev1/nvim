@@ -1,4 +1,4 @@
-# NVCode ![Build Status develop](https://img.shields.io/travis/ta4j/ta4j/develop?label=develop) ![Build Status master](https://img.shields.io/travis/ta4j/ta4j/master?label=master) [![Discord](https://img.shields.io/discord/745552125769023488.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HX9MbWZ)  [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
+# NVCode ![Build Status develop](https://img.shields.io/travis/ta4j/ta4j/develop?label=develop) ![Build Status master](https://img.shields.io/travis/ta4j/ta4j/master?label=master) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
 
 
 ![NVCode pic](./utils/images/nvim.png)
