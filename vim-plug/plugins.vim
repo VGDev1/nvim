@@ -30,12 +30,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'sbdchd/neoformat' " Nice formatter for python and jsc
     " Better Comments
     Plug 'tpope/vim-commentary' " to comment using gc
-    " Convert binary, hex, etc..
-    Plug 'glts/vim-radical' " Show other forms on numbers 
-    " Repeat stuff
-    Plug 'tpope/vim-repeat' " using . will repeat all map
-    " Text Navigation
-    Plug 'unblevable/quick-scope' " find words faster
     " ###################Older version ##################
     " Easymotion
     Plug 'easymotion/vim-easymotion' " navigate faster using a,b,c after ex w
@@ -79,8 +73,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'voldikss/vim-floaterm' "floating terminal window
     " Start Screen
     Plug 'mhinz/vim-startify'
-    " Vista
-    Plug 'liuchengxu/vista.vim'
     " See what keys do like in emacs
     Plug 'liuchengxu/vim-which-key'
     " Zen mode

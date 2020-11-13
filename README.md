@@ -115,7 +115,7 @@ I recommend reading the docs of these plugins to understand them better. Each pl
 * [vim-polyglot](https://github.com/sheerun/vim-polyglot): Better Syntax Support
 * [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) [vim-treesitter/playground](https://github.com/vim-treesitter/playground): Treesitter
 * [nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)[vim-devicons](https://github.com/ryanoasis/vim-devicons): Cool icons
-* [auto-pairs](https://github.com/jiangmiao/auto-pairs): " Auto pairs for '(' '[' '{'
+* [auto-pairs](https://github.com/jiangmiao/auto-pairs): Auto pairs for '(' '[' '{'
 * [vim-closetag](https://github.com/alvan/vim-closetag): Closetags for html
 * [nvcode-color-schemes.vim](https://github.com/christianchiarulli/nvcode-color-schemes.vim) [onedark.vim](https://github.com/joshdick/onedark.vim): Themes
 * [coc.nvim](https://github.com/neoclide/coc.nvim): Intellisense
