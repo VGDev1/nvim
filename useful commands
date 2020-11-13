@@ -1,0 +1,14 @@
+s + char + char searches for word, n = Next and N = previous
+:Far replace with **/*.py
+:Fardo
+:Farundo
+ctrl + f files in FZF
+leader + b for buffer
+leader + z for zen mode
+:MarkdownPreview
+:MarkdownPreviewStop
+:Minimap
+
+
+
+
