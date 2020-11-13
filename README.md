@@ -9,7 +9,7 @@ The following will install this config if you have an existing config it will mo
 This script only supports Mac, Ubuntu and Arch
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/nvim/master/utils/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/VGDev1/nvim/master/utils/install.sh)
 ```
 
 ## Install Neovim
@@ -39,7 +39,7 @@ bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/nvim/master/
 ## Clone this repo into your config
 
 ```
-git clone https://github.com/ChristianChiarulli/nvim.git ~/.config/nvim
+git clone https://github.com/VGDev1/nvim.git ~/.config/nvim
 ```
 
 ## Install python & node support
@@ -152,65 +152,6 @@ To use **vim-gists** you will need to configure the following:
 git config --global github.user <username>
 ```
 
-## VSCodium & Neo Vim Extension
-
-[VSCodium](https://github.com/VSCodium/vscodium) contains build files to generate free release binaries of Microsoft's VS Code.
-
-You can install it on multiple platforms:
-
-- Mac
-
-  ```
-  brew cask install vscodium
-  ```
-
-- Arch
-
-  ```
-  yay -s vscodium-bin
-  ```
-
-- Snap
-
-  ```
-  snap install codium
-  ```
-
-[The Neo Vim Extension](https://github.com/asvetliakov/vscode-neovim) is available in the VSCode marketplace
-
-I recommend using this alongside the VSCode `which-key` extension
-
-Along with some of my config files you can find in `utils/vscode_config`
-
 ## TODO
 
 - Better Documentation
-
-## CoC extensions to check out
-
-- coc-fzf-preview
-  - https://github.com/yuki-ycino/fzf-preview.vim/
-- coc-floaterm
-
-## 0.5
-
-- native lsp
-- treesitter
-
-## LOW PRIORITY TODO
-
-If anyone reading this has any suggestions about implementing any of the following I will accept a PR, but these are not priority.
-
-- ale
-- multiple cursors
-- markdown table
-- galaxyline automatically grab colors from colorscheme
-- tpope/vim-dadbod
-- neovide
-- People asked about vimwiki I kinda hate it but maybe I'll add it
-- vimspector this is included but I don't plan on using it much
-  - can be used with jdb, pdb, gdb, etc...
-- nvim-dap and nvim-dap-virtual-text (ALL DEBUGGING IN NEOVIM IS CONFUSING AND HARD TO GET WORKING OR I'M JUST DUMB)
-- later manually link pylance
-- resize with arrows in addition to meta
-- how to support meta key on for macOS?
