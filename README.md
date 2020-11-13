@@ -1,4 +1,5 @@
-# NVCode
+# NVCode ![Build Status develop](https://img.shields.io/travis/ta4j/ta4j/develop?label=develop) ![Build Status master](https://img.shields.io/travis/ta4j/ta4j/master?label=master) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
+
 
 ![NVCode pic](./utils/images/nvim.png)
 
