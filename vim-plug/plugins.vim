@@ -8,7 +8,6 @@ endif
 
 call plug#begin('~/.config/nvim/autoload/plugged')
 
-    Plug 'tpope/vim-commentary' " to comment using gc
     " Convert binary, hex, etc..
     Plug 'glts/vim-radical' " Show other forms on numbers 
     " Repeat stuff
