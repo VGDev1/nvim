@@ -172,8 +172,6 @@ I recommend reading the docs of these plugins to understand them better. Each pl
 - lazy git
 - lazy docker
 
-Explanations and installation instruction can be found on my blog
-
 ## Language Servers
 
 Since CoC doesn't support all languages in there extensions
