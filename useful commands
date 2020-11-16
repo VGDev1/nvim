@@ -26,5 +26,9 @@ space ci for command toggle
 move using tab and shift tab
 K and J to move line up and down
 ctrl arrows to resize
-
-
+tn for new tab
+te for tabedit
+tc for tabclose
+ba close all buffers
+bd close current buffer
+:Maps for all mappings
