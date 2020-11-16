@@ -24,7 +24,7 @@ map  N <Plug>(easymotion-prev)
 nmap S <Plug>(easymotion-overwin-t)
 
 " Move to line
-" map <Leader>l <Plug>(easymotion-bd-jk)
+map <Leader>l <Plug>(easymotion-bd-jk)
 " nmap <Leader>l <Plug>(easymotion-overwin-line)
 
 " " Move to word

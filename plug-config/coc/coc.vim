@@ -30,7 +30,7 @@ nmap <silent> gr <Plug>(coc-references)
 " Toggle explorer
 map <leader>e :CocCommand explorer --toggle --sources=file+ <CR>
 
-
+le
 " Use K to show documentation in preview window.
 nnoremap <silent> K :call <SID>show_documentation()<CR>
 
@@ -48,7 +48,7 @@ autocmd CursorHold * silent call CocActionAsync('highlight')
 " Symbol renaming.
 nmap <leader>rn <Plug>(coc-rename)
 " Formatt
-nmap <leader>rn <Plug>(coc-format)
+nmap <leader>f <Plug>(coc-format)
 
 augroup mygroup
   autocmd!
