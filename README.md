@@ -117,7 +117,6 @@ I recommend reading the docs of these plugins to understand them better. Each pl
 - [vim-repeat](https://github.com/tpope/vim-repeat'): Repeat stuff
 - [quick-scope](https://github.com/unblevable/quick-scope): Text Navigation
 - [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors): Multiple cursors
-- [vim-better-comments](https://github.com/jbgutierrez/vim-better-comments): Colored comments
 - [neoformat](https://github.com/sbdchd/neoformat): Formatter
 - [vim-easymotion](https://github.com/easymotion/vim-easymotion): Easymotion
 - [vim-surround](https://github.com/tpope/vim-surround): Surround

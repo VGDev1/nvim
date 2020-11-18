@@ -22,9 +22,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'machakann/vim-highlightedyank'
   else " Normal terminal vim
     " ######################Newest version #####################
-    " For colored comments
-    Plug 'jbgutierrez/vim-better-comments' " Colored comments
-    " Multiple cursors
+    " " Multiple cursors
     Plug 'terryma/vim-multiple-cursors' " Multiple cursors
     " Alternative formatter
     Plug 'sbdchd/neoformat' " Nice formatter for python and jsc
