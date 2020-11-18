@@ -8,6 +8,8 @@ endif
 
 call plug#begin('~/.config/nvim/autoload/plugged')
 
+    " Use arduino cmd interface
+    Plug 'stevearc/vim-arduino'
     " Convert binary, hex, etc..
     Plug 'glts/vim-radical' " Show other forms on numbers 
     " Repeat stuff
