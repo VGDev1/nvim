@@ -32,3 +32,7 @@ tc for tabclose
 ba close all buffers
 bd close current buffer
 :Maps for all mappings
+leader t for tabs
+leader g for rg
+leader b for buffers 
+leader m for marks
