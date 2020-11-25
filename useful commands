@@ -1,16 +1,24 @@
 s + char + char searches for word, n = Next and N = previous
+f + char to select word on specific row
 :Far replace with **/*.py
 :Fardo
 :Farundo
 ctrl + f files in FZF
-leader + b for buffer
 leader + z for zen mode
 :MarkdownPreview
 :MarkdownPreviewStop
 :Minimap
 ###############TO BE CONVERTED TO MD AND FILLED##############################
-do _ before command to dont put in register
+do "_ before command to dont put in register
 g(char) for coc commands
+gd for defenitions
+gy for type defenition
+gi for implementation
+gr for references
+leader + rn for rename
+leader + f for format
+leader + ac for code action
+leader + qf for quickfix
 leader + e for explorer(nerdtree)
 jk kj instead of espace
 faster saving ctrl s and quit ctrl Q
@@ -26,9 +34,7 @@ space ci for command toggle
 move using tab and shift tab
 K and J to move line up and down
 ctrl arrows to resize
-tn for new tab
 te for tabedit
-tc for tabclose
 ba close all buffers
 bd close current buffer
 :Maps for all mappings
@@ -36,3 +42,4 @@ leader t for tabs
 leader g for rg
 leader b for buffers 
 leader m for marks
+leader bc for closing buffer
