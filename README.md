@@ -17,8 +17,6 @@ bash <(curl -s https://raw.githubusercontent.com/VGDev1/nvim/master/utils/instal
 - Mac
 
   ```
-  brew install neovim
-
   brew install --HEAD neovim # Latest
 
   brew upgrade neovim --fetch-HEAD # Sometimes you need to update
