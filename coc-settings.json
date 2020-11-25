@@ -80,7 +80,4 @@
 
   //coc-emoji
   "coc.source.emoji.filetypes": ["markdown"]
-
-  // TODO b:coc_suggest_disable=1 GOYO
-  // TODO add to paths.vim g:coc_node_path
 }
