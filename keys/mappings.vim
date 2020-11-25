@@ -57,13 +57,11 @@ else
   " <TAB>: completion.
   inoremap <silent> <expr><TAB> pumvisible() ? "\<C-n>" : "\<TAB>"
 
-  " Close current buffer
-  map <leader>bd :Bwipeout<cr>
-
   " Close all buffers
   map <leader>ba :1,1000 bd!<cr>
-  map <leader>tn :tabnew<cr>
-  map <leader>tc :tabclose<cr>
+  
+  " Close current buffer
+  map <leader>bc :BufferClose<cr>
 
   " Opens a new tab with the current buffer's path
   " Super useful when editing files in the same directory
