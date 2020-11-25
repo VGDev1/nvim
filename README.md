@@ -218,7 +218,7 @@ To use **vim-gists** you will need to configure the following:
 git config --global github.user <username>
 ```
 
-## Lern Vim
+## Learn Vim
 
 [Vim basics](https://github.com/VGDev1/nvim/blob/master/vimbasics.md)
 
