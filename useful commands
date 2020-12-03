@@ -43,3 +43,6 @@ leader g for rg
 leader b for buffers 
 leader m for marks
 leader bc for closing buffer
+
+
+If you are going to use along with java, lombok need to be installed and path updated...
