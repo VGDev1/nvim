@@ -26,7 +26,7 @@
   "list.selectedSignText": " ",
 
   // autoformat
-  "coc.preferences.formatOnSaveFiletypes": [
+  "coc.preferences.formatOnSaveiletypes": [
     "css",
     "markdown",
     "javascript",

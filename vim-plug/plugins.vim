@@ -10,12 +10,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
     " Use arduino cmd interface
     Plug 'stevearc/vim-arduino'
-    " Convert binary, hex, etc..
-    Plug 'glts/vim-radical' " Show other forms on numbers 
     " Repeat stuff
     Plug 'tpope/vim-repeat' " using . will repeat all map
-    " Text Navigation
-    Plug 'unblevable/quick-scope' " find words faster
 
   if exists('g:vscode') " If used in vsc
     " Easy motion for VSCode
@@ -26,19 +22,13 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " ######################Newest version #####################
     " " Multiple cursors
     Plug 'terryma/vim-multiple-cursors' " Multiple cursors
-    " Alternative formatter
-    Plug 'sbdchd/neoformat' " Nice formatter for python and jsc
     " Better Comments
     Plug 'tpope/vim-commentary' " to comment using gc
     " ###################Older version ##################
     " Easymotion
     Plug 'easymotion/vim-easymotion' " navigate faster using a,b,c after ex w
-    " Surround
-    Plug 'tpope/vim-surround' " to change ex comma to colons around something 
     " Have the file system follow you around
     Plug 'airblade/vim-rooter' " cd automatic to workdir
-    " auto set indent settings
-    Plug 'tpope/vim-sleuth' 
     " Better Syntax Support
     Plug 'sheerun/vim-polyglot' "multiple languages support in this package
     " Treesitter
@@ -73,15 +63,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'voldikss/vim-floaterm' "floating terminal window
     " Start Screen
     Plug 'mhinz/vim-startify'
-    " See what keys do like in emacs
-    Plug 'liuchengxu/vim-which-key'
-    " Zen mode
-    Plug 'junegunn/goyo.vim' " for better focus ;) 
     " Snippets
     Plug 'honza/vim-snippets'
     Plug 'mattn/emmet-vim'
-    " Interactive code
-    Plug 'metakirby5/codi.vim' " not perfect
     " Better tabline
     Plug 'romgrk/barbar.nvim'
     " undo time travel
@@ -97,8 +81,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " " async tasks
     Plug 'skywind3000/asynctasks.vim' "copy of vsc async task system
     Plug 'skywind3000/asyncrun.vim'
-    " Swap windows
-    Plug 'wesQ3/vim-windowswap' " easy way to windowswap
     " Markdown Preview
     Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & npm install'  }
     " Easily Create Gists
@@ -111,8 +93,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Debugging
     Plug 'puremourning/vimspector' "advanced multilanguage debugger
     Plug 'szw/vim-maximizer' "maximizing curren window toggle 
-    " Minimap
-    Plug 'wfxr/minimap.vim'
     " Rainbow brackets
     Plug 'luochen1990/rainbow'
 
