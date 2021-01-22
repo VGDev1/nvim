@@ -60,6 +60,9 @@ else
   " Close all buffers
   map <leader>ba :1,1000 bd!<cr>
   
+  " ripgrep
+  map <leader>rg :RG<cr>
+
   " Close current buffer
   map <leader>bc :BufferClose<cr>
 
